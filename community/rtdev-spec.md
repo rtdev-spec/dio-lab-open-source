@@ -18,4 +18,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 
 
-[![Linkedin](https://static-00.iconduck.com/assets.00/linkedin-icon-256x256-9ge3d19k.png)](https://www.linkedin.com/in/renato-tavares-marques-75146020b/?trk=opento_sprofile_topcard/)
+### [![Linkedin](https://static-00.iconduck.com/assets.00/linkedin-icon-256x256-9ge3d19k.png)](https://www.linkedin.com/in/renato-tavares-marques-75146020b/?trk=opento_sprofile_topcard/)
